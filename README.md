@@ -6,7 +6,7 @@ se explican solas.
 
 ### Proyectos destacados
 
-**[cs2-config-engine](https://github.com/JHONMARTINEZJD/cs2-config-engine)** — Motor en PowerShell
+**[cs2-cfg-snapshot](https://github.com/JHONMARTINEZJD/cs2-cfg-snapshot)** — Motor en PowerShell
 para descubrir, parsear, clasificar, validar y exportar la configuración viva de Counter-Strike 2.
 Parser propio (tokenizer carácter a carácter) para los formatos `.vcfg`/`.vdf` y `.cfg`, clasificación
 en 50 categorías, y un motor de sincronización determinista donde la configuración del jugador
